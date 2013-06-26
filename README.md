@@ -1,4 +1,10 @@
-base16-notepad-plus-plus
-========================
+# Base16 for Notepad++
 
-Notepad++ styles based on Chris Kempson's Base16 colour scheme
+[Notepad++][1] styles based on Chris Kempson's [Base16][2] colour scheme.
+
+## Installation
+
+Download and copy the styles to *%APPDATA%\Notepad++\themes*
+
+[1]: http://notepad-plus-plus.org/
+[2]: https://github.com/chriskempson/base16
