@@ -7,7 +7,7 @@ Notepad++ theme by Jan T. Sott
 
 Base16 Project: https://github.com/chriskempson/base16
 
-Copy this style to %APPDATA%\Notepad++
+Copy this style to %APPDATA%\Notepad++\themes
 
 //-->
 <?xml version="1.0" encoding="Windows-1252" ?>
