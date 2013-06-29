@@ -4,7 +4,7 @@
 
 ## Installation
 
-Download and copy the styles to `%APPDATA%\Notepad++\themes*`
+Download and copy the styles to `%APPDATA%\Notepad++\themes`
 
 ## Contributing
 Pull requests can be made against [Base16 Builder][3]
