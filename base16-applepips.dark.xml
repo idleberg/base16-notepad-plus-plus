@@ -320,10 +320,10 @@ Comment:    Copy this style to %APPDATA%\Notepad++\themes
             <WordsStyle name="STRING" styleID="3" fgColor="78bb86" bgColor="374546" fontName="" fontStyle="" fontSize="10" />
             <WordsStyle name="CHARACTER" styleID="4" fgColor="000673" bgColor="374546" fontName="" fontStyle="" fontSize="10" />
             <WordsStyle name="KEYWORDS" styleID="5" fgColor="a8aaaa" bgColor="374546" fontName="" fontStyle="" fontSize="10" keywordClass="instre1" />
-            <WordsStyle name="TRIPLE" styleID="6" fgColor="" bgColor="374546" fontName="" fontStyle="" fontSize="10" />
-            <WordsStyle name="TRIPLEDOUBLE" styleID="7" fgColor="" bgColor="374546" fontName="" fontStyle="" fontSize="10" />
-            <WordsStyle name="CLASSNAME" styleID="8" fgColor="" bgColor="374546" fontName="" fontStyle="" fontSize="10" />
-            <WordsStyle name="DEFNAME" styleID="9" fgColor="" bgColor="374546" fontName="" fontStyle="" fontSize="10" />
+            <WordsStyle name="TRIPLE" styleID="6" fgColor="7d8182" bgColor="374546" fontName="" fontStyle="" fontSize="10" />
+            <WordsStyle name="TRIPLEDOUBLE" styleID="7" fgColor="7d8182" bgColor="374546" fontName="" fontStyle="" fontSize="10" />
+            <WordsStyle name="CLASSNAME" styleID="8" fgColor="efb554" bgColor="374546" fontName="" fontStyle="" fontSize="10" />
+            <WordsStyle name="DEFNAME" styleID="9" fgColor="00afd6" bgColor="374546" fontName="" fontStyle="" fontSize="10" />
             <WordsStyle name="OPERATOR" styleID="10" fgColor="a8aaaa" bgColor="374546" fontName="" fontStyle="" fontSize="10" />
             <WordsStyle name="IDENTIFIER" styleID="11" fgColor="00b5b0" bgColor="374546" fontName="" fontStyle="" fontSize="10" />
             <WordsStyle name="COMMENTBLOCK" styleID="12" fgColor="7d8182" bgColor="374546" fontName="" fontStyle="" fontSize="10" />

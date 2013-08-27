@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="Windows-1252" ?>
 <!--//
 
 Name:       Base16 Mocha Dark
@@ -10,7 +11,6 @@ Website:    https://github.com/chriskempson/base16
 Comment:    Copy this style to %APPDATA%\Notepad++\themes
 
 //-->
-<?xml version="1.0" encoding="Windows-1252" ?>
 <NotepadPlus>
     <LexerStyles>
         <LexerType name="c" desc="C" ext="">
@@ -320,10 +320,10 @@ Comment:    Copy this style to %APPDATA%\Notepad++\themes
             <WordsStyle name="STRING" styleID="3" fgColor="beb55b" bgColor="3B3228" fontName="" fontStyle="" fontSize="10" />
             <WordsStyle name="CHARACTER" styleID="4" fgColor="000673" bgColor="3B3228" fontName="" fontStyle="" fontSize="10" />
             <WordsStyle name="KEYWORDS" styleID="5" fgColor="d0c8c6" bgColor="3B3228" fontName="" fontStyle="" fontSize="10" keywordClass="instre1" />
-            <WordsStyle name="TRIPLE" styleID="6" fgColor="" bgColor="3B3228" fontName="" fontStyle="" fontSize="10" />
-            <WordsStyle name="TRIPLEDOUBLE" styleID="7" fgColor="" bgColor="3B3228" fontName="" fontStyle="" fontSize="10" />
-            <WordsStyle name="CLASSNAME" styleID="8" fgColor="" bgColor="3B3228" fontName="" fontStyle="" fontSize="10" />
-            <WordsStyle name="DEFNAME" styleID="9" fgColor="" bgColor="3B3228" fontName="" fontStyle="" fontSize="10" />
+            <WordsStyle name="TRIPLE" styleID="6" fgColor="7e705a" bgColor="3B3228" fontName="" fontStyle="" fontSize="10" />
+            <WordsStyle name="TRIPLEDOUBLE" styleID="7" fgColor="7e705a" bgColor="3B3228" fontName="" fontStyle="" fontSize="10" />
+            <WordsStyle name="CLASSNAME" styleID="8" fgColor="f4bc87" bgColor="3B3228" fontName="" fontStyle="" fontSize="10" />
+            <WordsStyle name="DEFNAME" styleID="9" fgColor="8ab3b5" bgColor="3B3228" fontName="" fontStyle="" fontSize="10" />
             <WordsStyle name="OPERATOR" styleID="10" fgColor="d0c8c6" bgColor="3B3228" fontName="" fontStyle="" fontSize="10" />
             <WordsStyle name="IDENTIFIER" styleID="11" fgColor="7bbda4" bgColor="3B3228" fontName="" fontStyle="" fontSize="10" />
             <WordsStyle name="COMMENTBLOCK" styleID="12" fgColor="7e705a" bgColor="3B3228" fontName="" fontStyle="" fontSize="10" />

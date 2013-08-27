@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="Windows-1252" ?>
 <!--//
 
-Name:       Base16 Harper
+Name:       Base16 Harper Dark
 
 Authors:    Chris Kempson (Base16 color schemes)
             Jan T. Sott (Notepad++ adaptation)
@@ -320,10 +320,10 @@ Comment:    Copy this style to %APPDATA%\Notepad++\themes
             <WordsStyle name="STRING" styleID="3" fgColor="7fb5e1" bgColor="010101" fontName="" fontStyle="" fontSize="10" />
             <WordsStyle name="CHARACTER" styleID="4" fgColor="000673" bgColor="010101" fontName="" fontStyle="" fontSize="10" />
             <WordsStyle name="KEYWORDS" styleID="5" fgColor="a8a49d" bgColor="010101" fontName="" fontStyle="" fontSize="10" keywordClass="instre1" />
-            <WordsStyle name="TRIPLE" styleID="6" fgColor="" bgColor="010101" fontName="" fontStyle="" fontSize="10" />
-            <WordsStyle name="TRIPLEDOUBLE" styleID="7" fgColor="" bgColor="010101" fontName="" fontStyle="" fontSize="10" />
-            <WordsStyle name="CLASSNAME" styleID="8" fgColor="" bgColor="010101" fontName="" fontStyle="" fontSize="10" />
-            <WordsStyle name="DEFNAME" styleID="9" fgColor="" bgColor="010101" fontName="" fontStyle="" fontSize="10" />
+            <WordsStyle name="TRIPLE" styleID="6" fgColor="726e6a" bgColor="010101" fontName="" fontStyle="" fontSize="10" />
+            <WordsStyle name="TRIPLEDOUBLE" styleID="7" fgColor="726e6a" bgColor="010101" fontName="" fontStyle="" fontSize="10" />
+            <WordsStyle name="CLASSNAME" styleID="8" fgColor="d6da25" bgColor="010101" fontName="" fontStyle="" fontSize="10" />
+            <WordsStyle name="DEFNAME" styleID="9" fgColor="489e48" bgColor="010101" fontName="" fontStyle="" fontSize="10" />
             <WordsStyle name="OPERATOR" styleID="10" fgColor="a8a49d" bgColor="010101" fontName="" fontStyle="" fontSize="10" />
             <WordsStyle name="IDENTIFIER" styleID="11" fgColor="f5bfd7" bgColor="010101" fontName="" fontStyle="" fontSize="10" />
             <WordsStyle name="COMMENTBLOCK" styleID="12" fgColor="726e6a" bgColor="010101" fontName="" fontStyle="" fontSize="10" />
