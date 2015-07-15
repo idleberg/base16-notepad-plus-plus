@@ -156,7 +156,8 @@ Comment:    Copy this style to %APPDATA%\Notepad++\themes
             <WordsStyle name="NUMBER" styleID="5" fgColor="cb4b16" bgColor="fdf6e3" fontName="" fontStyle="" fontSize="10" />
             <WordsStyle name="DOUBLESTRING" styleID="6" fgColor="859900" bgColor="fdf6e3" fontName="" fontStyle="" fontSize="10" />
             <WordsStyle name="SINGLESTRING" styleID="7" fgColor="6c71c4" bgColor="fdf6e3" fontName="" fontStyle="" fontSize="10" />
-            <WordsStyle name="TAG" styleID="1" fgColor="dc322f" bgColor="fdf6e3" fontName="" fontStyle="" fontSize="10" />
+            <WordsStyle name="TAG" styleID="11" fgColor="dc322f" bgColor="fdf6e3" fontName="" fontStyle="" fontSize="10" />
+            <WordsStyle name="TAGEND" styleID="1" fgColor="dc322f" bgColor="fdf6e3" fontName="" fontStyle="" fontSize="10" />
             <WordsStyle name="TAGUNKNOWN" styleID="2" fgColor="dc322f" bgColor="fdf6e3" fontName="" fontStyle="" fontSize="10" />
             <WordsStyle name="ATTRIBUTE" styleID="3" fgColor="cb4b16" bgColor="fdf6e3" fontName="" fontStyle="" fontSize="10" />
             <WordsStyle name="ATTRIBUTEUNKNOWN" styleID="4" fgColor="cb4b16" bgColor="fdf6e3" fontName="" fontStyle="" fontSize="10" />
